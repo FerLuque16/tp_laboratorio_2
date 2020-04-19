@@ -45,7 +45,8 @@ namespace Entidades
         public static string BinarioDecimal(string binario)
         {
             string res;
-            int numeroDecimal=0;
+            int numeroDecimal;
+            int resto, exponente = 0, resultado = 0;
 
             if (binario is null || binario =="")
             {
@@ -54,14 +55,20 @@ namespace Entidades
 
             else
             {
-                for (int i = 1; i < binario.Length; i++)
+               
+                numeroDecimal = int.Parse(binario);
+
+                do
                 {
-                    numeroDecimal += (int)Math.Pow(2, binario.Length - i) * int.Parse(binario[i - 1].ToString());
-                }
+                    resto = numeroDecimal % 10;
+                    numeroDecimal = numeroDecimal / 10;
 
-                res = numeroDecimal.ToString();
+                    resultado += (int)(resto * Math.Pow(2, exponente));
+                    exponente++;
 
+                } while (numeroDecimal != 0);
 
+                res = resultado.ToString();
             }
 
             return res;

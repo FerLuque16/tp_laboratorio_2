@@ -4,3 +4,9 @@ C:\Users\Fer\Desktop\HOLA\TP 1 prueba\Entidades\obj\Debug\Entidades.csprojAssemb
 C:\Users\Fer\Desktop\HOLA\TP 1 prueba\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Fer\Desktop\HOLA\TP 1 prueba\Entidades\obj\Debug\Entidades.dll
 C:\Users\Fer\Desktop\HOLA\TP 1 prueba\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Fer\Desktop\TP1 LABO 2 GITHUB\tp_laboratorio_2\TP1\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fer\Desktop\TP1 LABO 2 GITHUB\tp_laboratorio_2\TP1\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fer\Desktop\TP1 LABO 2 GITHUB\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\TP1 LABO 2 GITHUB\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\TP1 LABO 2 GITHUB\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fer\Desktop\TP1 LABO 2 GITHUB\tp_laboratorio_2\TP1\Entidades\obj\Debug\Entidades.pdb
