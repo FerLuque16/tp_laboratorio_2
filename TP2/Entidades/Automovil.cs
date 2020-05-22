@@ -25,7 +25,7 @@ namespace Entidades
         public Automovil(EMarca marca, string chasis, ConsoleColor color)
             : base(chasis, marca, color)
         {
-            tipo = ETipo.Monovolumen;
+
         }
         /// <summary>
         /// Constructo que llama al constructor base y setea los campos de automovil

@@ -17,3 +17,9 @@ C:\Users\Fer\Desktop\TP2 LABO 2\TP-02\Entidades\obj\Debug\Entidades.csprojAssemb
 C:\Users\Fer\Desktop\TP2 LABO 2\TP-02\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\Fer\Desktop\TP2 LABO 2\TP-02\Entidades\obj\Debug\Entidades.dll
 C:\Users\Fer\Desktop\TP2 LABO 2\TP-02\Entidades\obj\Debug\Entidades.pdb
+C:\Users\Fer\Desktop\TP2 LABO 2\TP2\Entidades\bin\Debug\Entidades.dll
+C:\Users\Fer\Desktop\TP2 LABO 2\TP2\Entidades\bin\Debug\Entidades.pdb
+C:\Users\Fer\Desktop\TP2 LABO 2\TP2\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\TP2 LABO 2\TP2\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\TP2 LABO 2\TP2\Entidades\obj\Debug\Entidades.dll
+C:\Users\Fer\Desktop\TP2 LABO 2\TP2\Entidades\obj\Debug\Entidades.pdb

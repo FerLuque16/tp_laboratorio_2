@@ -61,7 +61,10 @@ namespace Entidades
         public virtual string Mostrar()
         {
             StringBuilder sb = new StringBuilder();
-            sb.AppendLine((string)this);
+            // sb.AppendLine((string)this);
+            sb.AppendLine("CHASIS: " + this.chasis);
+            sb.AppendLine("MARCA : " + this.marca);
+            sb.AppendLine("COLOR : " + this.color);
 
             return sb.ToString();
         }
@@ -74,11 +77,12 @@ namespace Entidades
         public static explicit operator string(Vehiculo p)
         {
             StringBuilder sb = new StringBuilder();
+            sb.AppendLine(p.Mostrar());
 
-            sb.AppendLine("CHASIS: "+ p.chasis.ToString());
+            /*sb.AppendLine("CHASIS: "+ p.chasis.ToString());
             sb.AppendLine("MARCA : "+ p.marca.ToString());
             sb.AppendLine("COLOR : "+ p.color.ToString());
-            sb.AppendLine("---------------------");
+            sb.AppendLine("---------------------");*/
 
             return sb.ToString();
         }
@@ -101,7 +105,7 @@ namespace Entidades
         /// <returns></returns>
         public static bool operator !=(Vehiculo v1, Vehiculo v2)
         {
-            return !(v1.chasis == v2.chasis);
+            return !(v1 == v2);
         }
     }
 }
