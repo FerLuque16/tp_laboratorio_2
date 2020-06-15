@@ -1,0 +1,6 @@
+C:\Users\Fer\Desktop\PROGRAMACION\TP3\Luque.Fernando.2doD.TP3\Excepciones\bin\Debug\Excepciones.dll
+C:\Users\Fer\Desktop\PROGRAMACION\TP3\Luque.Fernando.2doD.TP3\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\Fer\Desktop\PROGRAMACION\TP3\Luque.Fernando.2doD.TP3\Excepciones\obj\Debug\Excepciones.csprojAssemblyReference.cache
+C:\Users\Fer\Desktop\PROGRAMACION\TP3\Luque.Fernando.2doD.TP3\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\Fer\Desktop\PROGRAMACION\TP3\Luque.Fernando.2doD.TP3\Excepciones\obj\Debug\Excepciones.dll
+C:\Users\Fer\Desktop\PROGRAMACION\TP3\Luque.Fernando.2doD.TP3\Excepciones\obj\Debug\Excepciones.pdb
