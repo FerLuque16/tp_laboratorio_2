@@ -79,10 +79,7 @@ namespace Entidades
             StringBuilder sb = new StringBuilder();
             sb.AppendLine(p.Mostrar());
 
-            /*sb.AppendLine("CHASIS: "+ p.chasis.ToString());
-            sb.AppendLine("MARCA : "+ p.marca.ToString());
-            sb.AppendLine("COLOR : "+ p.color.ToString());
-            sb.AppendLine("---------------------");*/
+           
 
             return sb.ToString();
         }
